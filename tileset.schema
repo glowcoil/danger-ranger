@@ -1,0 +1,11 @@
+[
+  "empty", "boulder", "boat", {"type":"door", "index":0}, {"type":"grass_button", "index":0}, {"type":"door", "index":1}, {"type":"grass_button", "index":1}, {"type":"door", "index":2}, {"type":"grass_button", "index":2}, "character", "empty", "empty", "empty", "end",
+  "solid", "solid", "solid", "solid", "solid", "solid", "water", "water", "water", "ice", "ice", "ice", "ice", "ice",
+  "solid", "solid", "solid", "solid", "solid", "solid", "water", "water", "water", "ice", "ice", "ice", "ice", "ice",
+  "solid", "solid", "solid", "solid", "solid", "solid", "water", "water", "water", "ice", "ice", "ice", "empty", "empty",
+  "solid", "solid", "solid", "solid", "solid", "solid", "water", "water", "empty", "ice", "ice", "ice", "ice", "ice",
+  "ladder", "solid", "solid", "solid", "water", "water", "water", "water", "water", "ice", "ice", "ice", "ice", "ice",
+  "ladder", "solid", "solid", "solid", "water", "water", "water", "water", "water", "ice", "ice", "ice", "empty", "empty",
+  "ladder", "solid", "solid", "empty", "water", "water", "water", "water", "water", "empty", "empty", "empty", "empty", "empty",
+  "ladder", "empty", "empty", "empty", "water", "water", "empty", "empty", "empty", "empty", "empty", "empty", "empty", "empty"
+]
